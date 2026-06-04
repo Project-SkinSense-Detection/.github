@@ -1,4 +1,4 @@
-![SkinSense Logo](https://via.placeholder.com/800x200?text=SkinSense+Banner)
+![SkinSense Logo](https://github.com/Project-SkinSense-Detection/.github/blob/main/green-skin-sense.png)
 
 SkinSense
 --------------------------------------------------------------------------------------
