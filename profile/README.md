@@ -29,10 +29,7 @@ Tech Stack
 Installation
 --------------------------------------------------------------------------------------
 SkinSense is a web-based application. You can access the deployed platform through the following link:
-**[SkinSense Website Link](#)**
-
-The prototype design of this application was built using Figma. If you want to see our interactive design framework, you can access it via the link below:
-**[SkinSense Figma Prototype Link](#)**
+**[SkinSense Website Link](https://skin-sense-frontend-production.up.railway.app/)**
 
 *Note: For local installation instructions, environment setup, web & server execution, AI models, datasets, notebooks, and dashboards, please refer to their respective repositories.*
 
