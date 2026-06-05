@@ -24,7 +24,7 @@ Tech Stack
 * **Data Science:** Python, Google Colaboratory, Streamlit (Dashboard).  
     *[For more details, please check the data science repository.](#)*
 * **AI Engineering:** Python, Kaggle Datasets, TensorFlow (Functional API), TensorBoard, and Generative AI API.  
-    *[For more details, please check the AI/Machine Learning repository.](#)*
+    *[For more details, please check the AI/Machine Learning repository.](https://github.com/Project-SkinSense-Detection/skin-disease-model)*
 
 Installation
 --------------------------------------------------------------------------------------
@@ -54,5 +54,6 @@ SkinSense Project Repository
 * [Front-End Web Repository](#)
 * [Back-End Web Repository](#)
 * [Data Science Repository](#)
-* [AI Repository](https://github.com/Project-SkinSense-Detection/skin-disease-api)
+* [AI Repository API](https://github.com/Project-SkinSense-Detection/skin-disease-api)
+* [AI Repository Model](https://github.com/Project-SkinSense-Detection/skin-disease-model)
 
