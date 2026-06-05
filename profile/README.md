@@ -51,7 +51,7 @@ Contributing
 
 SkinSense Project Repository
 --------------------------------------------------------------------------------------
-* [Front-End Web Repository](#)
+* [Front-End Web Repository](https://github.com/Project-SkinSense-Detection/skin-sense-frontend)
 * [Back-End Web Repository](https://github.com/Project-SkinSense-Detection/skin-sense-server-api)
 * [Data Science Repository](https://github.com/Project-SkinSense-Detection/skin-diseases-data-science)
 * [AI Repository API](https://github.com/Project-SkinSense-Detection/skin-disease-api)
